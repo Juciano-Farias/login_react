@@ -221,7 +221,7 @@ const Register = () => {
         <br />
         <span className="line">
           {/*put router link here*/}
-          <a href="#">Sign In</a>
+          <a href="#">Sign In</a> {/*href will change*/}
         </span>
       </p>
     </section>
